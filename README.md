@@ -1,1 +1,1 @@
-My homework from 17th of March and submitted with git
+The files for the event management project. Images, pages, style, index
